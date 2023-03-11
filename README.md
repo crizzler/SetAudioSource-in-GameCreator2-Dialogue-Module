@@ -4,3 +4,5 @@ In the Dialogue Module of Game Creator 2 there is no option to set an Audio Sour
 Drag and drop the script into Assets/Plugins/GameCreator/Packages/Core/Runtime/Common/Polymorphism/Properties/Types/Get/Audio
 
 In the Dialogue module is now an option to set an AudioSource at the "Audio" field.
+
+At the end of each dialogue line you have to set at "On Finish" the Instruction to stop the current Salsa AudioSource from playing.
